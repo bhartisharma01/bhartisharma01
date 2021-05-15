@@ -19,10 +19,9 @@
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SUBLIME](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 
-### Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhartisharma01&show_icons=true&theme=tokyonight)
-<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhartisharma01&theme=tokyonight)
+### :chart_with_upwards_trend: Github Stats:
+<p align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhartisharma01&show_icons=true&theme=tokyonight)</p>
+
 
 
 
