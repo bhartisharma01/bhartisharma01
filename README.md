@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on : [School Web Application using PHP](http://webartihc.ultimatefreehost.in/)
 - 🌱 I’m currently learning ReactJs
 ### Languages and Tools
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![](https://visitor-badge.laobi.icu/badge?page_id=bhartisharma01.bhartisharma01)
+
 
 
 
