@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bharti Sharma
-### A passionate Designer and Developer
+### A passionate Developer
 - 🔭 I’m currently working on : [School Web Application using PHP](http://webartihc.ultimatefreehost.in/)
 - 🌱 I’m currently learning ReactJs
 ### Languages:
