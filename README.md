@@ -1,7 +1,6 @@
 # Hi 👋, I'm Bharti Sharma
 ### A passionate Developer
-- 🔭 I’m currently working on : [School Web Application using PHP](http://webartihc.ultimatefreehost.in/)
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning MERN 
 ### Languages:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
